@@ -1,0 +1,8 @@
+C:\Users\amets\source\repos\EXAM\EXAM\bin\Debug\EXAM.exe.config
+C:\Users\amets\source\repos\EXAM\EXAM\bin\Debug\EXAM.exe
+C:\Users\amets\source\repos\EXAM\EXAM\bin\Debug\EXAM.pdb
+C:\Users\amets\source\repos\EXAM\EXAM\obj\Debug\EXAM.csproj.AssemblyReference.cache
+C:\Users\amets\source\repos\EXAM\EXAM\obj\Debug\EXAM.csproj.SuggestedBindingRedirects.cache
+C:\Users\amets\source\repos\EXAM\EXAM\obj\Debug\EXAM.csproj.CoreCompileInputs.cache
+C:\Users\amets\source\repos\EXAM\EXAM\obj\Debug\EXAM.exe
+C:\Users\amets\source\repos\EXAM\EXAM\obj\Debug\EXAM.pdb
